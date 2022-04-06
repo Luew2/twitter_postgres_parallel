@@ -1,4 +1,5 @@
 # Parallel Twitter in Postgres
+# I WORKED WITH ADI FOR THIS ASSIGNMENT, I keep forgetting to write this in the sakai box
 
 ![](https://github.com/Luew2/twitter_postgres_parallel/workflows/tests_normalized/badge.svg)
 
